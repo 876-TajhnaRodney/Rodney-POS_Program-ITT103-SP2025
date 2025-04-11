@@ -3,7 +3,7 @@ READ ME
 Autor: Tajhna Rodney
 Date Created: April 10, 2025
 Course: ITT103
-Github:
+Github: https://github.com/876-TajhnaRodney/Rodney-POS_Program-ITT103-SP2025
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 Purpose fo the Program
 This is a Point of Sale program used to process purchases at the Best Buy Retail Store.
